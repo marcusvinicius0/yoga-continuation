@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F6F6F6;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 65px;
+    display: block;
+}
+
+.dots {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 80px;
+   
+}
+
+.phrase-yoga {
+    text-align: center;
+    margin-top: 60px;
+    color: black;
+    font-size: 30px;
+    margin-right: 50px;
+    margin-left: 35px;
+}
+
+button {
+    margin-top: 45px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    margin-left: 113px;
+    background: #323232;
+    box-shadow: -4px 4px 18px rgb(0 0 0 / 9%);
+    border-radius: 10px;
+    width: 133px;
+    height: 46px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+    color: #FFFFFF;
+    display: block;
+}
